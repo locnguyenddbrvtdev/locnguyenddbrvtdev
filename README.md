@@ -60,11 +60,11 @@
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 <code><img title="NodeJS" alt="nodejs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img title="NestJS" alt="nestjs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /></code>
-<code> <img title="MongoDB" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icons/mongodb/mongodb-original.svg" /></code>
+<code> <img title="MongoDB" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
 <code> <img title="Mongoose" alt="Mongoose" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" /></code>
 <code> <img title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code> <img title="Jenkins" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icons/jenkins/jenkins-original.svg" /></code>
-<code> <img title="Docker" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icons/docker/docker-original.svg" /></code>
+<code> <img title="Jenkins" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
+<code> <img title="Docker" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
 <code> <img title="K8S" alt="K8S" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" /></code>
 </br></br>
 
