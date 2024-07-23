@@ -54,18 +54,18 @@
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" /></code>
+<code><img title="TypeScript" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="Redux" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" /></code>
+<code><img title="Redux" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 <code><img title="NodeJS" alt="nodejs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code><img title="NestJS" alt="nestjs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" /></code>
-<code> <img title="MongoDB" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" /></code>
-<code> <img title="Mongoose" alt="Mongoose" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/mongoose/mongoose-original-wordmark.svg" /></code>
-<code> <img title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" /></code>
-<code> <img title="Jenkins" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" /></code>
-<code> <img title="Docker" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" /></code>
-<code> <img title="K8S" alt="K8S" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg" /></code>
+<code><img title="NestJS" alt="nestjs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /></code>
+<code> <img title="MongoDB" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icons/mongodb/mongodb-original.svg" /></code>
+<code> <img title="Mongoose" alt="Mongoose" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" /></code>
+<code> <img title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+<code> <img title="Jenkins" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icons/jenkins/jenkins-original.svg" /></code>
+<code> <img title="Docker" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icons/docker/docker-original.svg" /></code>
+<code> <img title="K8S" alt="K8S" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" /></code>
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
@@ -109,31 +109,12 @@ ___
 
 
 <div align="center">
-<summary><h1>My Activities</h1></summary>
-<a href="https://github.com/locnguyenddbrvtdev">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hoangxuanlam2007&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-</br></br>
-<a href="https://github.com/locnguyenddbrvtdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangxuanlam2007&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</div><br/>
-
-<div align="center">
 <h3>🌟 STAR THE REPOS IF YOU LIKE 🌟<br/><br/></h3>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=locnguyenddbrvtdev&theme=blueberry_duo" alt="Lộc Nguyễn" /></p>
 </div><br/>
 </a>
 
-<div align="center">
-    <a href="https://github.com/locnguyenddbrvtdev">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+visiting+!" >
-    </a>
-</div>
-
-<div>
-  <img src="https://github.com/locnguyenddbrvtdev/locnguyenddbrvtdev/blob/main/github_profile_img/snake.svg" alt="snake"></center>
-</div>
 
 <div align="center" ><img alt="" width="100%" src="https://github.com/locnguyenddbrvtdev/locnguyenddbrvtdev/blob/main/assets/footer.png"></div>
 
