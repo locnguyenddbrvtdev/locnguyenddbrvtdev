@@ -17,9 +17,9 @@
 </a>
 
 <h3>- Hi, I'm Lộc Nguyễn 👋</h3> 
-- I am someone without an information technology background, but I am passionate and enthusiastic about becoming a Full-Stack Developer.
-- 🌱 Right now, I'm diving deep into learning more programming languages. My ultimate goal? To become a Full-Stack Developer, as I'm fascinated by both Front-End and Back-End development.
-- 🤔 I particularly enjoy learning about backend systems. Creating high-load, stable systems with minimal downtime is my goal. Therefore, I am excited about acquiring new knowledge to enhance my skills.
+- I am someone without an information technology background, but I am passionate and enthusiastic about becoming a Full-Stack Developer. 
+- 🌱 Right now, I'm diving deep into learning more programming languages. My ultimate goal? To become a Full-Stack Developer, as I'm fascinated by both Front-End and Back-End development. 
+- 🤔 I particularly enjoy learning about backend systems. Creating high-load, stable systems with minimal downtime is my goal. Therefore, I am excited about acquiring new knowledge to enhance my skills. 
 <details>
 <summary>Click here for a cute surprise! :3</summary>
 <img src="https://cat-gifs.cyclic.app">
