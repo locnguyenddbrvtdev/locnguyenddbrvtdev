@@ -76,8 +76,8 @@
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Chrome" alt="chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code> <img title="Ubuntu" alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" /></code>
-<code><img title="AzureDevops" alt="AzureDevops" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" /></code>
+<code> <img title="Ubuntu" alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" /></code>
+<code><img title="AzureDevops" alt="AzureDevops" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></code>
 </br></br>
      
 </a>
