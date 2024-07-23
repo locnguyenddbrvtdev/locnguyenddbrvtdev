@@ -5,7 +5,7 @@
 <div align="center">
 <h1>
 <img align="center" width="120" src="/github_profile_img/avatar.png" /> <br/>
-<a href="https://githiub.com/locnguyenddbrvtdev"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Xuân+Lâm;Young+Web/App+Developer" alt="A Web/App Development Enthusiast"></a>
+<a href="https://githiub.com/locnguyenddbrvtdev"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Lộc+Nguyễn;Young+Web/App+Developer" alt="A Web/App Development Enthusiast"></a>
 </h1>
           
 </div>
